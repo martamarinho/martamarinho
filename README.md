@@ -11,7 +11,7 @@ eficiência, cobertura e colaboração em equipe.
 - Testes exploratórios
 - Testes de layout
 - Testes de regressão
-- Testes de integração
+- Testes de integração entre outros
 - Análise de requisitos e critérios de aceitação
 - Planejamento e execução de casos de teste
 
@@ -36,7 +36,7 @@ eficiência, cobertura e colaboração em equipe.
 - Criação de documentação técnica
 
 
-🛠️ Projetos
+🛠️ Alguns Projetos
 
 🔹 **Automação de abertura de conta (Web) – PicPay**  
 Automação completa do fluxo de cadastro, com validações e geração de relatórios.  

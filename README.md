@@ -7,7 +7,7 @@ eficiência, cobertura e colaboração em equipe.
 
  🚀 Tecnologias e Ferramentas que utilizo
 
-**Testes Funcionais e Manuais**
+ ✅ **Testes Funcionais e Manuais**
 - Testes exploratórios
 - Testes de layout
 - Testes de regressão
@@ -15,22 +15,22 @@ eficiência, cobertura e colaboração em equipe.
 - Análise de requisitos e critérios de aceitação
 - Planejamento e execução de casos de teste
 
-**Automação de Testes**
+🤖 **Automação de Testes**
 - Java + Selenium + Cucumber (Web)
 - Cypress (JavaScript/TypeScript)
 - RestAssured e Postman (API)
 - JUnit | TestNG | Allure Reports
 
-**Bancos de Dados**
+🗃️ **Bancos de Dados**
 - MySQL | PostgreSQL
 - Consultas SQL para validação de dados
 
-**Versionamento e Integração**
+🔧 **Versionamento e Integração**
 - Git & GitHub (Branches, Pull Requests, Merge)
 - GitHub Actions (CI para rodar testes automatizados)
 - Jira (Kanban + Scrum)
 
-**Outras Skills**
+💼 **Outras Skills**
 - Colaboração com devs para correção de bugs
 - Escrita de cenários BDD com Gherkin
 - Criação de documentação técnica
@@ -50,6 +50,9 @@ RestAssured + JSON Schema Validator
 Testes de login, carrinho e finalização de compra com validações visuais.  
 Cypress + JavaScript
 
+ 🧪🔹 **Conhecimento de Estudos**
+- Testes de Performance (JMeter, k6)
+- Testes Mobile (Appium, Detox)
 
 ## 📫 Contato
 
